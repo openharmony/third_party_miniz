@@ -1,0 +1,39 @@
+{
+    "name": "@ohos/miniz",
+    "version": "",
+    "description": "Miniz is a lossless, high performance data compression library in a single source file that implements the zlib (RFC 1950) and Deflate (RFC 1951) compressed data format specification standards.",
+    "homePage": "https://gitee.com/openharmony",
+    "license": "MIT",
+    "repository": "https://gitee.com/openharmony/third_party_miniz",
+    "domain": "os",
+    "language": "",
+    "publishAs": "code-segment",
+    "private": false,
+    "scripts": {},
+    "tags": [
+        "third_party"
+    ],
+    "keywords": [
+        "third-party",
+        "miniz"
+    ],
+    "envs": [],
+    "dirs": [],
+    "segment": {
+        "destPath": "third_party/miniz"
+    },
+    "component": {
+        "name": "thirdparty_miniz",
+        "subsystem": "",
+        "syscap": [],
+        "features": [],
+        "adapted_system_type": [],
+        "rom": "",
+        "ram": "",
+        "build": {
+            "sub_component": [],
+            "inner_kits": [],
+            "test": []
+        }
+    }
+}
